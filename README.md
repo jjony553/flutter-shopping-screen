@@ -14,6 +14,7 @@ Flutter 3.3.2, Dart 2.18.1
 
 ## Folder Structure 
 ```
+lib
 │  constants.dart
 │  main.dart
 │  theme.dart
